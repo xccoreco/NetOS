@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "NetOS": {
+      "commandName": "Project",
+      "commandLineArgs": "ConsoleApp1.dll ConsoleApp1.iso"
+    }
+  }
+}

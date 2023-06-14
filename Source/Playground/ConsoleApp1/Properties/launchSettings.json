@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Boot using QEMU": {
+      "commandName": "Executable",
+      "executablePath": "dotnet",
+      "commandLineArgs": "NetOS.dll ConsoleApp1.dll ConsoleApp1.iso"
+    }
+  }
+}
